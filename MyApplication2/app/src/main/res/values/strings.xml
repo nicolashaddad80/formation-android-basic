@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Nicolas iPlant Application</string>
     <string name="Mesage">Hello World!</string>
+    <string name="activateNightModeSwitch">Activate night mode</string>
+    <string name="hideSynonyms">Hide synonyms in the details page</string>
+    <string name="write">WRITE US</string>
+    <string name="clearData">CLEAR ALL DATA</string>
 </resources>
